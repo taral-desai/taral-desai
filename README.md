@@ -1,5 +1,5 @@
 
-# Hi, I'm Taral! 👋
+# Hi, I'm Taral Desai! 👋
 
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taral-desai//) 
 
@@ -9,7 +9,7 @@
 
   
 ## 🚀 About Me
-I'm an mechanical engineer having keen interest in data analytics and trying to contribute to the data revolution as every industry has this one thing thing common: data, data and data...  
+I'm a mechanical engineer having keen interest in data analytics and trying to contribute to the data revolution as every industry has this one thing thing common: data, data and data...  
 
   
 ## 🛠 Languages
