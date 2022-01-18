@@ -9,7 +9,7 @@
 
   
 ## 🚀 About Me
-I'm a mechanical engineer having keen interest in data analytics and trying to contribute to the data revolution as every industry has this one thing thing common: data, data and data...  
+I'm a mechanical engineer having keen interest in data analytics and trying to contribute to the data revolution as every industry has this one thing common: data, data and data...  
 
   
 ## 🛠 Languages
